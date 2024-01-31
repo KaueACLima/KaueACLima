@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kauê Lims 😁
+## Bem-vindo(a) ao perfil do Kauê Lima 😁
 
  <div>
    <a href="https://github.com/KaueACLima">
