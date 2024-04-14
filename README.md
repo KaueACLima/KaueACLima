@@ -1,22 +1,18 @@
-## Bem-vindo(a) ao perfil do Kauê Lima 😁
+<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/KaueACLima/340f27b597cf9243c16760e934e470f0/raw/a78b39d88d7341865ad5cfc84558baaae039ae4c/githubCard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kauê Lima</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=yellow" alt="Profile views" /> </p>
 
- <div>
-   <a href="https://github.com/KaueACLima">
+- 🚀 Web Developer Frontend
+- 🕐 I'm still looking for my first opportunity as a frontend developer
+- 💬 Ask me about **JavaScript, HTML, CSS**
+
+## Contact
+
+<a href="(https://www.linkedin.com/in/kau%C3%AA-lima-234515182/)" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-KaueACLima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+## ⚙️ GitHub Analytics
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueACLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueACLima&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Para mais contatos acesse:
- 
-<div> 
-  <a href = "mailto:kaue5939.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kau%C3%AA-lima-234515182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
