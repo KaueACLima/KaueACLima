@@ -6,13 +6,17 @@
 - 🕐 I'm still looking for my first opportunity as a frontend developer
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-## Contact
-
-<a href="(https://www.linkedin.com/in/kau%C3%AA-lima-234515182/)" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-KaueACLima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
 ## ⚙️ GitHub Analytics
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueACLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueACLima&layout=compact&langs_count=6&theme=tokyonight"/>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="(https://www.linkedin.com/in/kau%C3%AA-lima-234515182/)" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-KaueACLima-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="(https://wa.me/5511993106261)" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-KaueACLima-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
+</a>
