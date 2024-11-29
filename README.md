@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaue-acl/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511993106261)
 -  🚀 Frontend Web Developer, studying to become Fullstack
+-  🔗 Let's connect on LinkedIn and expand our network.
 - 🕐 I'm still looking for my first opportunity as a frontend developer
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
