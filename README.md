@@ -10,7 +10,7 @@
 - 🕐 I'm still looking for my first opportunity as a frontend developer
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-<h2>Technologies</h2>
+<h2></h2>
 
 <div style:"display: inline-block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,3 +29,8 @@
    <p align="left" style="background:yellow">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaueACLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueACLima&layout=compact&langs_count=6&theme=tokyonight"/>
+
+
+## Technologies
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueACLima&amp;radius=16&amp;theme=github-dark&amp;area=true&amp;order=5&amp;custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=KaueACLima&amp;radius=16&amp;theme=github-dark&amp;area=true&amp;order=5&amp;custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o" style="max-width: 100%;">
