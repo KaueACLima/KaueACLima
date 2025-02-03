@@ -1,5 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kauê Lima</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=yellow" alt="Profile views" /> </p>
+<div align="center">
+   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kauê Lima</h1>
+   <pre>Desenvolvedor Web Front-end Júnior 💻</pre>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=yellow" alt="Profile views" /> </p>
+</div>
+
+<div align="center"
+   <img src="https://github.com/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
+</div>
 
 ## Contact
 
@@ -9,6 +16,11 @@
 -  🔗 Let's connect on LinkedIn and expand our network.
 - 🕐 I'm still looking for my first opportunity as a frontend developer
 - 💬 Ask me about **JavaScript, HTML, CSS**
+<details>
+   <summary>🕵🏽‍♀️ More about me</summary>
+   - 😎 I'm 23 years old, I currently live in Brazil. I speak intermediate English and have experience in HTML, CSS, Javascript, PHP, React. <br>
+   - 💎 I like to read, but books that I can acquire knowledge. I exercise, especially running. And I'm looking for my first opportunity as a junior frontend web developer.
+</details>
 
 <h2></h2>
 
@@ -29,8 +41,3 @@
    <p align="left" style="background:yellow">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaueACLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueACLima&layout=compact&langs_count=6&theme=tokyonight"/>
-
-
-## Technologies
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaueACLima&amp;radius=16&amp;theme=github-dark&amp;area=true&amp;order=5&amp;custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=KaueACLima&amp;radius=16&amp;theme=github-dark&amp;area=true&amp;order=5&amp;custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o" style="max-width: 100%;">
