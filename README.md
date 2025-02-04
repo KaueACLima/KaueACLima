@@ -1,4 +1,4 @@
-<div align="center">
+<div>
    <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> welcome, I'm Kauê Lima</h1>
    <pre>Desenvolvedor Web Front-end Júnior 💻</pre>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=yellow" alt="Profile views" /> </p>
