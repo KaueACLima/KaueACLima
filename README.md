@@ -1,7 +1,11 @@
-<div>
-   <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> welcome, I'm Kauê Lima</h1>
-   <pre>Desenvolvedor Web Front-end Júnior 💻</pre>
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=yellow" alt="Profile views" /> </p>
+<div align="center">
+   <br><br>
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> welcome, I'm Kauê Lima</h1>
+   <pre align="center">Junior Front-end Web Developer 💻</pre>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=orange" alt="Profile views" /> </p>
+   <div align="left">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" height="50%">
+   </div>
 </div>
 
 <h2>Contact</h2>
@@ -14,7 +18,7 @@
 <ul>
    <li>🔗 Let's connect on LinkedIn and expand our network.</li>
    <li>🕐 I'm still looking for my first opportunity as a frontend developer</li>
-    <li>💬 Ask me about **JavaScript, HTML, CSS**</li>
+    <li>💬 Ask me about JavaScript, HTML, CSS</li>
 </ul>
 
 
