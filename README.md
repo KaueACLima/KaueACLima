@@ -59,6 +59,10 @@
          <td>Básico</td>
       </tr>
       <tr>
+         <td><img align="center" alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></td>
+         <td>Básico</td>
+      </tr>
+      <tr>
          <td><img align="center" alt="fluter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></td>
          <td>Básico</td>
       </tr>
@@ -68,10 +72,6 @@
       </tr>
       <tr>
          <td><img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
-         <td>Básico</td>
-      </tr>
-      <tr>
-         <td><img align="center" alt="react" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF"></td>
          <td>Básico</td>
       </tr>
       <tr>
