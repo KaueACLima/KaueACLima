@@ -1,7 +1,7 @@
 <div align="center">
    <br><br>
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> welcome, I'm Kauê Lima</h1>
-   <pre align="center">Junior Front-end Web Developer 💻</pre>
+   <pre align="center"> Front-end Web Developer 💻</pre>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaueACLima&color=orange" alt="Profile views" /> </p>
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" height="100%">
 </div>
