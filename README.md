@@ -26,7 +26,7 @@
   <summary>🕵🏽‍♀️ More about me</summary>
   <br>
 
-  - 😎 I'm 24 years old and based in Brazil. I speak intermediate English and have hands-on experience across the web stack (HTML, CSS, JavaScript, React, TypeScript).  
+  - 😎 I'm 25 years old and based in Brazil. I speak intermediate English and have hands-on experience across the web stack (HTML, CSS, JavaScript, React, TypeScript).  
   - 📚 I love reading books that help me grow — especially those related to tech, personal development, and productivity.  
   - 🏃 I also stay active through running and exercise.  
   - 👨‍💻 My goal is to grow as a **Data Engineer**, building on a solid front-end foundation.
